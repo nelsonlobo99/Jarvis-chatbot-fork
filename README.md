@@ -4,10 +4,10 @@ A simple C++ chatbot I wrote during the holidays. Inspired by the Jarvis AI from
 
 ### Instructions
 
-1. Clone this project by running ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/jarvis```
-2. Change to its directory via ```cd jarvis```
+1. Open a terminal window and clone this project by running ```git clone https://gitlab.com/5b43f91c61170e88de567951ebbec765/jarvis```
+2. Change directory via ```cd jarvis```
 3. To compile using GCC, type ```g++ chatbot.cpp && clear && ./a.out``` or ```gcc chatbot.cpp -lstdc++ && clear && ./a.out```
-4. Once started, type "help" and press Enter ⏎.
+4. Once started, type "help" for help and press **Enter ⏎**.
 
 [Open-source notices and Credits](NOTICE)
 
