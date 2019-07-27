@@ -9,6 +9,10 @@ A simple C++ chatbot I wrote during the holidays. Inspired by the Jarvis AI from
 3. To compile using GCC, type ```g++ chatbot.cpp && clear && ./a.out``` or ```gcc chatbot.cpp -lstdc++ && clear && ./a.out```
 4. Once started, type "help" for help and press **Enter ⏎**.
 
+### Improvements to be made
+
+Integrating with TensorFlow, porting to Python, using MySQL database or CSV files instead of hardcoded strings.
+
 [Open-source notices and Credits](NOTICE)
 
 <b>License</b>: 
