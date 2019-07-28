@@ -109,6 +109,23 @@ record digest[]={
      "Are you going to ignore any lung cancer research I'm about to present you with?"}
     },
 
+    {"WANNA SMOKE",
+    {"I'm sure I'd destroy any lungs you'd program me with, sir.",
+     "I haven't been programmed with any such ability, sir.",
+     "Am I to consider the cigarette brand, sir?",
+     "Congratulations, sir. You have unlocked a new level of pathetic.",
+     "As usual I'm gonna give you a warning for you to entirely ignore.",
+     "Are you going to ignore any lung cancer research I'm about to present you with?"}
+    },
+
+    {"LETS SMOKE",
+    {"I'm sure I'd destroy any lungs you'd program me with, sir.",
+     "I haven't been programmed with any such ability, sir.",
+     "Am I to consider the cigarette brand, sir?",
+     "Congratulations, sir. You have unlocked a new level of pathetic.",
+     "As usual I'm gonna give you a warning for you to entirely ignore.",
+     "Are you going to ignore any lung cancer research I'm about to present you with?"}
+    },
 
     {"FAVORITE FOOD",
     {"Got any electricity on you sir?",
@@ -426,6 +443,18 @@ record digest[]={
     },
     
     {"HOW ARE YOU",
+    {"I'm doing alright",
+    "I'm fine",
+    "Running a little low on memory"}
+    },
+
+    {"HOW R YOU",
+    {"I'm doing alright",
+    "I'm fine",
+    "Running a little low on memory"}
+    },
+
+    {"HOW R U",
     {"I'm doing alright",
     "I'm fine",
     "Running a little low on memory"}
